@@ -1,12 +1,12 @@
 {
   "tpl": {
     "react": {
-      "url": "",
-      "branch": ""
+      "url": "https://github.com/byzde/create-react-app.git",
+      "branch": "master"
     },
     "vue": {
-      "url": "",
-      "branch": ""
+      "url": "https://github.com/byzde/create-vue-app.git",
+      "branch": "master"
     }
   }
 }
