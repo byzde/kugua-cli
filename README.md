@@ -33,3 +33,5 @@ npm link
 ```cmd
 kugua-cli init
 ```
+*根据提示输入下载相应的 template 模板（提供两种默认的模板： react | vue）
+
