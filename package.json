@@ -1,0 +1,21 @@
+{
+  "name": "kugua-cli",
+  "version": "1.0.0",
+  "description": "前端自动化--脚手架工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "kugua-cli": "bin/cli"
+  },
+  "keywords": [],
+  "author": "byzde",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^5.0.0"
+  }
+}
